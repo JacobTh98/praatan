@@ -1,0 +1,6 @@
+streamlit>=1.53,<2
+plotly>=5.22,<7
+numpy>=1.24,<3
+praatio>=6.2,<7
+eng-to-ipa==0.0.2
+praat-parselmouth>=0.4.7,<0.5
