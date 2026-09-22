@@ -4,7 +4,7 @@ from __future__ import annotations
 
 # Hier die gewünschten Vokale auswählen. ae = æ; a ≠ ɑ und i ≠ ɪ.
 # Diphthonge werden als ganze Laute gewählt, z. B. aɪ oder aʊ.
-VOWELS = ("a", "i", "u", "ae")
+VOWELS = ("a", "i", "u", "ae", "ɑ", "ɪ")
 FILTER_MODE = "ipa"  # 'ipa': exakte IPA-Vokale; 'letters': geschriebene Buchstaben
 MAXIMUM_FORMANT = 5500.0  # Hz
 TIME_STEP = 0.01  # Sekunden

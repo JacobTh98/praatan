@@ -117,24 +117,24 @@ def write_textgrid(
         'File type = "ooTextFile"',
         'Object class = "TextGrid"',
         "",
-        "xmin = 0",
-        f"xmax = {duration}",
+        "xmin = 0.000000000",
+        f"xmax = {duration:.5f}",
         "tiers? <exists>",
         "size = 1",
         "item []:",
         "    item [1]:",
         '        class = "IntervalTier"',
         '        name = "Word"',
-        "        xmin = 0",
-        f"        xmax = {duration}",
+        "        xmin = 0.000000000",
+        f"        xmax = {duration:.5f}",
         f"        intervals: size = {len(intervals)}",
     ]
     for index, (start, end, text) in enumerate(intervals, start=1):
         lines.extend(
             [
                 f"        intervals [{index}]:",
-                f"            xmin = {start}",
-                f"            xmax = {end}",
+                f"            xmin = {start:.5f}",
+                f"            xmax = {end:.5f}",
                 f'            text = "{escape_textgrid_text(text)}"',
             ]
         )

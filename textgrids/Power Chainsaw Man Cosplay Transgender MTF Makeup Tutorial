@@ -1,0 +1,3386 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000000
+xmax = 286.14531
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "Word"
+        xmin = 0.000000000
+        xmax = 286.14531
+        intervals: size = 843
+        intervals [1]:
+            xmin = 0.00000
+            xmax = 0.20000
+            text = "In"
+        intervals [2]:
+            xmin = 0.20000
+            xmax = 0.36000
+            text = "this"
+        intervals [3]:
+            xmin = 0.36000
+            xmax = 0.60000
+            text = "video,"
+        intervals [4]:
+            xmin = 0.60000
+            xmax = 0.74000
+            text = ""
+        intervals [5]:
+            xmin = 0.74000
+            xmax = 0.88000
+            text = "I'm"
+        intervals [6]:
+            xmin = 0.88000
+            xmax = 0.96000
+            text = "going"
+        intervals [7]:
+            xmin = 0.96000
+            xmax = 1.02000
+            text = "to"
+        intervals [8]:
+            xmin = 1.02000
+            xmax = 1.14000
+            text = "show"
+        intervals [9]:
+            xmin = 1.14000
+            xmax = 1.26000
+            text = "you"
+        intervals [10]:
+            xmin = 1.26000
+            xmax = 1.38000
+            text = "how"
+        intervals [11]:
+            xmin = 1.38000
+            xmax = 1.46000
+            text = "to"
+        intervals [12]:
+            xmin = 1.46000
+            xmax = 1.54000
+            text = "go"
+        intervals [13]:
+            xmin = 1.54000
+            xmax = 1.74000
+            text = "from"
+        intervals [14]:
+            xmin = 1.74000
+            xmax = 2.12000
+            text = "this"
+        intervals [15]:
+            xmin = 2.12000
+            xmax = 2.90000
+            text = "to"
+        intervals [16]:
+            xmin = 2.90000
+            xmax = 3.32000
+            text = "this."
+        intervals [17]:
+            xmin = 3.32000
+            xmax = 4.16000
+            text = ""
+        intervals [18]:
+            xmin = 4.16000
+            xmax = 4.22000
+            text = "My"
+        intervals [19]:
+            xmin = 4.22000
+            xmax = 4.36000
+            text = "name"
+        intervals [20]:
+            xmin = 4.36000
+            xmax = 4.48000
+            text = "is"
+        intervals [21]:
+            xmin = 4.48000
+            xmax = 4.60000
+            text = "Ghost"
+        intervals [22]:
+            xmin = 4.60000
+            xmax = 4.78000
+            text = "Pop"
+        intervals [23]:
+            xmin = 4.78000
+            xmax = 4.92000
+            text = "and"
+        intervals [24]:
+            xmin = 4.92000
+            xmax = 5.04000
+            text = "I"
+        intervals [25]:
+            xmin = 5.04000
+            xmax = 5.22000
+            text = "upload"
+        intervals [26]:
+            xmin = 5.22000
+            xmax = 5.68000
+            text = "weekly"
+        intervals [27]:
+            xmin = 5.68000
+            xmax = 6.12000
+            text = "videos."
+        intervals [28]:
+            xmin = 6.12000
+            xmax = 6.28000
+            text = ""
+        intervals [29]:
+            xmin = 6.28000
+            xmax = 6.30000
+            text = "Don't"
+        intervals [30]:
+            xmin = 6.30000
+            xmax = 6.42000
+            text = "forget"
+        intervals [31]:
+            xmin = 6.42000
+            xmax = 6.62000
+            text = "to"
+        intervals [32]:
+            xmin = 6.62000
+            xmax = 6.72000
+            text = "like"
+        intervals [33]:
+            xmin = 6.72000
+            xmax = 6.84000
+            text = "and"
+        intervals [34]:
+            xmin = 6.84000
+            xmax = 7.16000
+            text = "subscribe."
+        intervals [35]:
+            xmin = 7.16000
+            xmax = 7.38000
+            text = ""
+        intervals [36]:
+            xmin = 7.38000
+            xmax = 7.52000
+            text = "It's"
+        intervals [37]:
+            xmin = 7.52000
+            xmax = 7.80000
+            text = "completely"
+        intervals [38]:
+            xmin = 7.80000
+            xmax = 8.08000
+            text = "free"
+        intervals [39]:
+            xmin = 8.08000
+            xmax = 8.26000
+            text = "and"
+        intervals [40]:
+            xmin = 8.26000
+            xmax = 8.36000
+            text = "you"
+        intervals [41]:
+            xmin = 8.36000
+            xmax = 8.44000
+            text = "can"
+        intervals [42]:
+            xmin = 8.44000
+            xmax = 8.58000
+            text = "always"
+        intervals [43]:
+            xmin = 8.58000
+            xmax = 8.76000
+            text = "change"
+        intervals [44]:
+            xmin = 8.76000
+            xmax = 8.86000
+            text = "your"
+        intervals [45]:
+            xmin = 8.86000
+            xmax = 9.02000
+            text = "mind"
+        intervals [46]:
+            xmin = 9.02000
+            xmax = 9.38000
+            text = "afterwards."
+        intervals [47]:
+            xmin = 9.38000
+            xmax = 9.62000
+            text = ""
+        intervals [48]:
+            xmin = 9.62000
+            xmax = 9.76000
+            text = "Comment"
+        intervals [49]:
+            xmin = 9.76000
+            xmax = 9.98000
+            text = "down"
+        intervals [50]:
+            xmin = 9.98000
+            xmax = 10.12000
+            text = "below"
+        intervals [51]:
+            xmin = 10.12000
+            xmax = 10.32000
+            text = "what"
+        intervals [52]:
+            xmin = 10.32000
+            xmax = 10.42000
+            text = "I"
+        intervals [53]:
+            xmin = 10.42000
+            xmax = 10.54000
+            text = "should"
+        intervals [54]:
+            xmin = 10.54000
+            xmax = 10.84000
+            text = "cosplay"
+        intervals [55]:
+            xmin = 10.84000
+            xmax = 11.14000
+            text = "next."
+        intervals [56]:
+            xmin = 11.14000
+            xmax = 11.30000
+            text = ""
+        intervals [57]:
+            xmin = 11.30000
+            xmax = 11.40000
+            text = "Enjoy"
+        intervals [58]:
+            xmin = 11.40000
+            xmax = 11.58000
+            text = "the"
+        intervals [59]:
+            xmin = 11.58000
+            xmax = 11.82000
+            text = "video."
+        intervals [60]:
+            xmin = 11.82000
+            xmax = 11.92000
+            text = ""
+        intervals [61]:
+            xmin = 11.92000
+            xmax = 12.00000
+            text = "To"
+        intervals [62]:
+            xmin = 12.00000
+            xmax = 12.26000
+            text = "start,"
+        intervals [63]:
+            xmin = 12.26000
+            xmax = 12.44000
+            text = ""
+        intervals [64]:
+            xmin = 12.44000
+            xmax = 12.54000
+            text = "we're"
+        intervals [65]:
+            xmin = 12.54000
+            xmax = 12.62000
+            text = "going"
+        intervals [66]:
+            xmin = 12.62000
+            xmax = 12.70000
+            text = "to"
+        intervals [67]:
+            xmin = 12.70000
+            xmax = 12.90000
+            text = "apply"
+        intervals [68]:
+            xmin = 12.90000
+            xmax = 13.34000
+            text = "concealer"
+        intervals [69]:
+            xmin = 13.34000
+            xmax = 13.58000
+            text = "to"
+        intervals [70]:
+            xmin = 13.58000
+            xmax = 13.72000
+            text = "the"
+        intervals [71]:
+            xmin = 13.72000
+            xmax = 14.02000
+            text = "edge"
+        intervals [72]:
+            xmin = 14.02000
+            xmax = 14.24000
+            text = "of"
+        intervals [73]:
+            xmin = 14.24000
+            xmax = 14.46000
+            text = "my"
+        intervals [74]:
+            xmin = 14.46000
+            xmax = 15.04000
+            text = "eyebrows,"
+        intervals [75]:
+            xmin = 15.04000
+            xmax = 15.24000
+            text = ""
+        intervals [76]:
+            xmin = 15.24000
+            xmax = 15.44000
+            text = "down"
+        intervals [77]:
+            xmin = 15.44000
+            xmax = 15.60000
+            text = "the"
+        intervals [78]:
+            xmin = 15.60000
+            xmax = 15.96000
+            text = "bridge"
+        intervals [79]:
+            xmin = 15.96000
+            xmax = 16.26000
+            text = "of"
+        intervals [80]:
+            xmin = 16.26000
+            xmax = 16.44000
+            text = "my"
+        intervals [81]:
+            xmin = 16.44000
+            xmax = 16.86000
+            text = "nose"
+        intervals [82]:
+            xmin = 16.86000
+            xmax = 17.46000
+            text = "and"
+        intervals [83]:
+            xmin = 17.46000
+            xmax = 17.94000
+            text = "under"
+        intervals [84]:
+            xmin = 17.94000
+            xmax = 18.16000
+            text = "my"
+        intervals [85]:
+            xmin = 18.16000
+            xmax = 18.58000
+            text = "eyes"
+        intervals [86]:
+            xmin = 18.58000
+            xmax = 18.86000
+            text = "and"
+        intervals [87]:
+            xmin = 18.86000
+            xmax = 19.04000
+            text = "just"
+        intervals [88]:
+            xmin = 19.04000
+            xmax = 19.32000
+            text = "any"
+        intervals [89]:
+            xmin = 19.32000
+            xmax = 19.52000
+            text = "other"
+        intervals [90]:
+            xmin = 19.52000
+            xmax = 19.90000
+            text = "areas"
+        intervals [91]:
+            xmin = 19.90000
+            xmax = 20.04000
+            text = "that"
+        intervals [92]:
+            xmin = 20.04000
+            xmax = 20.14000
+            text = "I"
+        intervals [93]:
+            xmin = 20.14000
+            xmax = 20.28000
+            text = "may"
+        intervals [94]:
+            xmin = 20.28000
+            xmax = 20.44000
+            text = "need"
+        intervals [95]:
+            xmin = 20.44000
+            xmax = 20.54000
+            text = "to"
+        intervals [96]:
+            xmin = 20.54000
+            xmax = 20.74000
+            text = "cover"
+        intervals [97]:
+            xmin = 20.74000
+            xmax = 21.00000
+            text = "up"
+        intervals [98]:
+            xmin = 21.00000
+            xmax = 21.20000
+            text = "like"
+        intervals [99]:
+            xmin = 21.20000
+            xmax = 21.70000
+            text = "acne"
+        intervals [100]:
+            xmin = 21.70000
+            xmax = 22.00000
+            text = "spots"
+        intervals [101]:
+            xmin = 22.00000
+            xmax = 22.20000
+            text = "or"
+        intervals [102]:
+            xmin = 22.20000
+            xmax = 22.44000
+            text = "something."
+        intervals [103]:
+            xmin = 22.44000
+            xmax = 27.62000
+            text = ""
+        intervals [104]:
+            xmin = 27.62000
+            xmax = 27.98000
+            text = "While"
+        intervals [105]:
+            xmin = 27.98000
+            xmax = 28.12000
+            text = "I'm"
+        intervals [106]:
+            xmin = 28.12000
+            xmax = 28.28000
+            text = "here,"
+        intervals [107]:
+            xmin = 28.28000
+            xmax = 28.38000
+            text = ""
+        intervals [108]:
+            xmin = 28.38000
+            xmax = 28.44000
+            text = "I'm"
+        intervals [109]:
+            xmin = 28.44000
+            xmax = 28.62000
+            text = "also"
+        intervals [110]:
+            xmin = 28.62000
+            xmax = 28.76000
+            text = "going"
+        intervals [111]:
+            xmin = 28.76000
+            xmax = 28.82000
+            text = "to"
+        intervals [112]:
+            xmin = 28.82000
+            xmax = 29.00000
+            text = "apply"
+        intervals [113]:
+            xmin = 29.00000
+            xmax = 29.20000
+            text = "just"
+        intervals [114]:
+            xmin = 29.20000
+            xmax = 29.36000
+            text = "a"
+        intervals [115]:
+            xmin = 29.36000
+            xmax = 29.72000
+            text = "little"
+        intervals [116]:
+            xmin = 29.72000
+            xmax = 29.90000
+            text = "bit"
+        intervals [117]:
+            xmin = 29.90000
+            xmax = 30.02000
+            text = "of"
+        intervals [118]:
+            xmin = 30.02000
+            xmax = 30.66000
+            text = "blush"
+        intervals [119]:
+            xmin = 30.66000
+            xmax = 31.30000
+            text = "around"
+        intervals [120]:
+            xmin = 31.30000
+            xmax = 31.68000
+            text = "any"
+        intervals [121]:
+            xmin = 31.68000
+            xmax = 32.12000
+            text = "possible"
+        intervals [122]:
+            xmin = 32.12000
+            xmax = 32.54000
+            text = "beer"
+        intervals [123]:
+            xmin = 32.54000
+            xmax = 33.04000
+            text = "chateau"
+        intervals [124]:
+            xmin = 33.04000
+            xmax = 33.44000
+            text = "areas"
+        intervals [125]:
+            xmin = 33.44000
+            xmax = 35.48000
+            text = "and"
+        intervals [126]:
+            xmin = 35.48000
+            xmax = 35.68000
+            text = "I'll"
+        intervals [127]:
+            xmin = 35.68000
+            xmax = 35.82000
+            text = "just"
+        intervals [128]:
+            xmin = 35.82000
+            xmax = 35.96000
+            text = "go"
+        intervals [129]:
+            xmin = 35.96000
+            xmax = 36.10000
+            text = "ahead"
+        intervals [130]:
+            xmin = 36.10000
+            xmax = 36.20000
+            text = "and"
+        intervals [131]:
+            xmin = 36.20000
+            xmax = 36.38000
+            text = "blend"
+        intervals [132]:
+            xmin = 36.38000
+            xmax = 36.54000
+            text = "that"
+        intervals [133]:
+            xmin = 36.54000
+            xmax = 36.80000
+            text = "out."
+        intervals [134]:
+            xmin = 36.80000
+            xmax = 42.04000
+            text = ""
+        intervals [135]:
+            xmin = 42.04000
+            xmax = 42.40000
+            text = "And"
+        intervals [136]:
+            xmin = 42.40000
+            xmax = 42.56000
+            text = "with"
+        intervals [137]:
+            xmin = 42.56000
+            xmax = 42.68000
+            text = "that"
+        intervals [138]:
+            xmin = 42.68000
+            xmax = 42.84000
+            text = "out"
+        intervals [139]:
+            xmin = 42.84000
+            xmax = 42.92000
+            text = "of"
+        intervals [140]:
+            xmin = 42.92000
+            xmax = 42.98000
+            text = "the"
+        intervals [141]:
+            xmin = 42.98000
+            xmax = 43.14000
+            text = "way,"
+        intervals [142]:
+            xmin = 43.14000
+            xmax = 43.22000
+            text = ""
+        intervals [143]:
+            xmin = 43.22000
+            xmax = 43.30000
+            text = "I"
+        intervals [144]:
+            xmin = 43.30000
+            xmax = 43.44000
+            text = "can"
+        intervals [145]:
+            xmin = 43.44000
+            xmax = 43.56000
+            text = "go"
+        intervals [146]:
+            xmin = 43.56000
+            xmax = 43.72000
+            text = "ahead"
+        intervals [147]:
+            xmin = 43.72000
+            xmax = 43.88000
+            text = "and"
+        intervals [148]:
+            xmin = 43.88000
+            xmax = 44.02000
+            text = "use"
+        intervals [149]:
+            xmin = 44.02000
+            xmax = 44.18000
+            text = "an"
+        intervals [150]:
+            xmin = 44.18000
+            xmax = 44.40000
+            text = "eyebrow"
+        intervals [151]:
+            xmin = 44.40000
+            xmax = 44.80000
+            text = "pen"
+        intervals [152]:
+            xmin = 44.80000
+            xmax = 45.16000
+            text = "on"
+        intervals [153]:
+            xmin = 45.16000
+            xmax = 45.48000
+            text = "my"
+        intervals [154]:
+            xmin = 45.48000
+            xmax = 45.98000
+            text = "eyebrows,"
+        intervals [155]:
+            xmin = 45.98000
+            xmax = 46.14000
+            text = ""
+        intervals [156]:
+            xmin = 46.14000
+            xmax = 46.38000
+            text = "which"
+        intervals [157]:
+            xmin = 46.38000
+            xmax = 46.72000
+            text = "sounds"
+        intervals [158]:
+            xmin = 46.72000
+            xmax = 47.02000
+            text = "so"
+        intervals [159]:
+            xmin = 47.02000
+            xmax = 47.18000
+            text = "much"
+        intervals [160]:
+            xmin = 47.18000
+            xmax = 47.72000
+            text = "stupider"
+        intervals [161]:
+            xmin = 47.72000
+            xmax = 48.10000
+            text = "out"
+        intervals [162]:
+            xmin = 48.10000
+            xmax = 48.38000
+            text = "loud"
+        intervals [163]:
+            xmin = 48.38000
+            xmax = 48.64000
+            text = "than"
+        intervals [164]:
+            xmin = 48.64000
+            xmax = 48.74000
+            text = "it"
+        intervals [165]:
+            xmin = 48.74000
+            xmax = 48.98000
+            text = "did"
+        intervals [166]:
+            xmin = 48.98000
+            xmax = 49.38000
+            text = "in"
+        intervals [167]:
+            xmin = 49.38000
+            xmax = 49.54000
+            text = "my"
+        intervals [168]:
+            xmin = 49.54000
+            xmax = 49.80000
+            text = "head."
+        intervals [169]:
+            xmin = 49.80000
+            xmax = 59.62000
+            text = ""
+        intervals [170]:
+            xmin = 59.62000
+            xmax = 60.06000
+            text = "All"
+        intervals [171]:
+            xmin = 60.06000
+            xmax = 60.28000
+            text = "right,"
+        intervals [172]:
+            xmin = 60.28000
+            xmax = 60.38000
+            text = ""
+        intervals [173]:
+            xmin = 60.38000
+            xmax = 60.66000
+            text = "perfect."
+        intervals [174]:
+            xmin = 60.66000
+            xmax = 60.82000
+            text = ""
+        intervals [175]:
+            xmin = 60.82000
+            xmax = 60.90000
+            text = "At"
+        intervals [176]:
+            xmin = 60.90000
+            xmax = 61.04000
+            text = "this"
+        intervals [177]:
+            xmin = 61.04000
+            xmax = 61.22000
+            text = "point,"
+        intervals [178]:
+            xmin = 61.22000
+            xmax = 61.40000
+            text = ""
+        intervals [179]:
+            xmin = 61.40000
+            xmax = 61.44000
+            text = "let's"
+        intervals [180]:
+            xmin = 61.44000
+            xmax = 61.56000
+            text = "go"
+        intervals [181]:
+            xmin = 61.56000
+            xmax = 61.70000
+            text = "ahead"
+        intervals [182]:
+            xmin = 61.70000
+            xmax = 61.82000
+            text = "and"
+        intervals [183]:
+            xmin = 61.82000
+            xmax = 61.94000
+            text = "put"
+        intervals [184]:
+            xmin = 61.94000
+            xmax = 62.24000
+            text = "our"
+        intervals [185]:
+            xmin = 62.24000
+            xmax = 62.64000
+            text = "colored"
+        intervals [186]:
+            xmin = 62.64000
+            xmax = 63.16000
+            text = "contacts"
+        intervals [187]:
+            xmin = 63.16000
+            xmax = 63.68000
+            text = "in."
+        intervals [188]:
+            xmin = 63.68000
+            xmax = 63.90000
+            text = ""
+        intervals [189]:
+            xmin = 63.90000
+            xmax = 64.12000
+            text = "power,"
+        intervals [190]:
+            xmin = 64.12000
+            xmax = 64.28000
+            text = ""
+        intervals [191]:
+            xmin = 64.28000
+            xmax = 64.38000
+            text = "I'm"
+        intervals [192]:
+            xmin = 64.38000
+            xmax = 64.44000
+            text = "going"
+        intervals [193]:
+            xmin = 64.44000
+            xmax = 64.48000
+            text = "to"
+        intervals [194]:
+            xmin = 64.48000
+            xmax = 64.60000
+            text = "be"
+        intervals [195]:
+            xmin = 64.60000
+            xmax = 64.84000
+            text = "using"
+        intervals [196]:
+            xmin = 64.84000
+            xmax = 65.16000
+            text = "red"
+        intervals [197]:
+            xmin = 65.16000
+            xmax = 65.30000
+            text = "and"
+        intervals [198]:
+            xmin = 65.30000
+            xmax = 65.82000
+            text = "orange"
+        intervals [199]:
+            xmin = 65.82000
+            xmax = 66.16000
+            text = "ones"
+        intervals [200]:
+            xmin = 66.16000
+            xmax = 66.40000
+            text = "that"
+        intervals [201]:
+            xmin = 66.40000
+            xmax = 66.60000
+            text = "I"
+        intervals [202]:
+            xmin = 66.60000
+            xmax = 66.82000
+            text = "got"
+        intervals [203]:
+            xmin = 66.82000
+            xmax = 67.12000
+            text = "from"
+        intervals [204]:
+            xmin = 67.12000
+            xmax = 69.32000
+            text = "primalcontactlenses"
+        intervals [205]:
+            xmin = 69.32000
+            xmax = 70.82000
+            text = ".com."
+        intervals [206]:
+            xmin = 70.82000
+            xmax = 75.02000
+            text = ""
+        intervals [207]:
+            xmin = 75.02000
+            xmax = 75.46000
+            text = "Oh,"
+        intervals [208]:
+            xmin = 75.46000
+            xmax = 76.88000
+            text = ""
+        intervals [209]:
+            xmin = 76.88000
+            xmax = 77.04000
+            text = "it"
+        intervals [210]:
+            xmin = 77.04000
+            xmax = 77.20000
+            text = "always"
+        intervals [211]:
+            xmin = 77.20000
+            xmax = 77.40000
+            text = "makes"
+        intervals [212]:
+            xmin = 77.40000
+            xmax = 77.50000
+            text = "me"
+        intervals [213]:
+            xmin = 77.50000
+            xmax = 77.76000
+            text = "tear"
+        intervals [214]:
+            xmin = 77.76000
+            xmax = 78.04000
+            text = "up"
+        intervals [215]:
+            xmin = 78.04000
+            xmax = 78.26000
+            text = "and"
+        intervals [216]:
+            xmin = 78.26000
+            xmax = 78.40000
+            text = "it"
+        intervals [217]:
+            xmin = 78.40000
+            xmax = 78.52000
+            text = "makes"
+        intervals [218]:
+            xmin = 78.52000
+            xmax = 78.66000
+            text = "my"
+        intervals [219]:
+            xmin = 78.66000
+            xmax = 78.90000
+            text = "nose"
+        intervals [220]:
+            xmin = 78.90000
+            xmax = 79.26000
+            text = "red."
+        intervals [221]:
+            xmin = 79.26000
+            xmax = 79.68000
+            text = "And"
+        intervals [222]:
+            xmin = 79.68000
+            xmax = 79.90000
+            text = "now"
+        intervals [223]:
+            xmin = 79.90000
+            xmax = 80.16000
+            text = "I"
+        intervals [224]:
+            xmin = 80.16000
+            xmax = 80.38000
+            text = "look"
+        intervals [225]:
+            xmin = 80.38000
+            xmax = 80.62000
+            text = "like"
+        intervals [226]:
+            xmin = 80.62000
+            xmax = 80.80000
+            text = "I"
+        intervals [227]:
+            xmin = 80.80000
+            xmax = 80.94000
+            text = "am"
+        intervals [228]:
+            xmin = 80.94000
+            xmax = 81.16000
+            text = "trying"
+        intervals [229]:
+            xmin = 81.16000
+            xmax = 81.30000
+            text = "to"
+        intervals [230]:
+            xmin = 81.30000
+            xmax = 81.66000
+            text = "cosplay"
+        intervals [231]:
+            xmin = 81.66000
+            xmax = 82.08000
+            text = "Bojack"
+        intervals [232]:
+            xmin = 82.08000
+            xmax = 82.52000
+            text = "Horseman."
+        intervals [233]:
+            xmin = 82.52000
+            xmax = 83.98000
+            text = ""
+        intervals [234]:
+            xmin = 83.98000
+            xmax = 84.40000
+            text = "And"
+        intervals [235]:
+            xmin = 84.40000
+            xmax = 84.54000
+            text = "with"
+        intervals [236]:
+            xmin = 84.54000
+            xmax = 84.72000
+            text = "that,"
+        intervals [237]:
+            xmin = 84.72000
+            xmax = 84.88000
+            text = ""
+        intervals [238]:
+            xmin = 84.88000
+            xmax = 84.96000
+            text = "let's"
+        intervals [239]:
+            xmin = 84.96000
+            xmax = 85.06000
+            text = "go"
+        intervals [240]:
+            xmin = 85.06000
+            xmax = 85.18000
+            text = "ahead"
+        intervals [241]:
+            xmin = 85.18000
+            xmax = 85.30000
+            text = "and"
+        intervals [242]:
+            xmin = 85.30000
+            xmax = 85.44000
+            text = "put"
+        intervals [243]:
+            xmin = 85.44000
+            xmax = 85.58000
+            text = "on"
+        intervals [244]:
+            xmin = 85.58000
+            xmax = 85.70000
+            text = "our"
+        intervals [245]:
+            xmin = 85.70000
+            xmax = 86.08000
+            text = "foundation."
+        intervals [246]:
+            xmin = 86.08000
+            xmax = 86.36000
+            text = ""
+        intervals [247]:
+            xmin = 86.36000
+            xmax = 86.44000
+            text = "I'm"
+        intervals [248]:
+            xmin = 86.44000
+            xmax = 86.58000
+            text = "just"
+        intervals [249]:
+            xmin = 86.58000
+            xmax = 86.70000
+            text = "going"
+        intervals [250]:
+            xmin = 86.70000
+            xmax = 86.76000
+            text = "to"
+        intervals [251]:
+            xmin = 86.76000
+            xmax = 86.86000
+            text = "put"
+        intervals [252]:
+            xmin = 86.86000
+            xmax = 87.06000
+            text = "some"
+        intervals [253]:
+            xmin = 87.06000
+            xmax = 87.20000
+            text = "on"
+        intervals [254]:
+            xmin = 87.20000
+            xmax = 87.32000
+            text = "my"
+        intervals [255]:
+            xmin = 87.32000
+            xmax = 87.82000
+            text = "hand,"
+        intervals [256]:
+            xmin = 87.82000
+            xmax = 87.92000
+            text = ""
+        intervals [257]:
+            xmin = 87.92000
+            xmax = 88.34000
+            text = "remove"
+        intervals [258]:
+            xmin = 88.34000
+            xmax = 89.00000
+            text = "my"
+        intervals [259]:
+            xmin = 89.00000
+            xmax = 89.60000
+            text = "headphones"
+        intervals [260]:
+            xmin = 89.60000
+            xmax = 90.54000
+            text = "and"
+        intervals [261]:
+            xmin = 90.54000
+            xmax = 90.92000
+            text = "beanie"
+        intervals [262]:
+            xmin = 90.92000
+            xmax = 91.80000
+            text = "and"
+        intervals [263]:
+            xmin = 91.80000
+            xmax = 92.04000
+            text = "just"
+        intervals [264]:
+            xmin = 92.04000
+            xmax = 92.28000
+            text = "apply"
+        intervals [265]:
+            xmin = 92.28000
+            xmax = 92.46000
+            text = "that"
+        intervals [266]:
+            xmin = 92.46000
+            xmax = 92.54000
+            text = "with"
+        intervals [267]:
+            xmin = 92.54000
+            xmax = 92.66000
+            text = "a"
+        intervals [268]:
+            xmin = 92.66000
+            xmax = 92.82000
+            text = "sponge."
+        intervals [269]:
+            xmin = 92.82000
+            xmax = 100.24000
+            text = ""
+        intervals [270]:
+            xmin = 100.24000
+            xmax = 100.66000
+            text = "And"
+        intervals [271]:
+            xmin = 100.66000
+            xmax = 101.08000
+            text = "now"
+        intervals [272]:
+            xmin = 101.08000
+            xmax = 101.40000
+            text = "I"
+        intervals [273]:
+            xmin = 101.40000
+            xmax = 101.66000
+            text = "am"
+        intervals [274]:
+            xmin = 101.66000
+            xmax = 102.40000
+            text = "very,"
+        intervals [275]:
+            xmin = 102.40000
+            xmax = 102.50000
+            text = ""
+        intervals [276]:
+            xmin = 102.50000
+            xmax = 102.64000
+            text = "very"
+        intervals [277]:
+            xmin = 102.64000
+            xmax = 102.92000
+            text = "white."
+        intervals [278]:
+            xmin = 102.92000
+            xmax = 103.32000
+            text = ""
+        intervals [279]:
+            xmin = 103.32000
+            xmax = 103.74000
+            text = "Next,"
+        intervals [280]:
+            xmin = 103.74000
+            xmax = 103.92000
+            text = ""
+        intervals [281]:
+            xmin = 103.92000
+            xmax = 104.00000
+            text = "I'm"
+        intervals [282]:
+            xmin = 104.00000
+            xmax = 104.06000
+            text = "going"
+        intervals [283]:
+            xmin = 104.06000
+            xmax = 104.12000
+            text = "to"
+        intervals [284]:
+            xmin = 104.12000
+            xmax = 104.34000
+            text = "move"
+        intervals [285]:
+            xmin = 104.34000
+            xmax = 104.54000
+            text = "on"
+        intervals [286]:
+            xmin = 104.54000
+            xmax = 104.72000
+            text = "to"
+        intervals [287]:
+            xmin = 104.72000
+            xmax = 104.92000
+            text = "my"
+        intervals [288]:
+            xmin = 104.92000
+            xmax = 105.42000
+            text = "contour"
+        intervals [289]:
+            xmin = 105.42000
+            xmax = 105.92000
+            text = "stick."
+        intervals [290]:
+            xmin = 105.92000
+            xmax = 106.22000
+            text = "What"
+        intervals [291]:
+            xmin = 106.22000
+            xmax = 106.34000
+            text = "I"
+        intervals [292]:
+            xmin = 106.34000
+            xmax = 106.48000
+            text = "like"
+        intervals [293]:
+            xmin = 106.48000
+            xmax = 106.58000
+            text = "to"
+        intervals [294]:
+            xmin = 106.58000
+            xmax = 106.74000
+            text = "do"
+        intervals [295]:
+            xmin = 106.74000
+            xmax = 107.02000
+            text = "here"
+        intervals [296]:
+            xmin = 107.02000
+            xmax = 107.38000
+            text = "is"
+        intervals [297]:
+            xmin = 107.38000
+            xmax = 107.60000
+            text = "get"
+        intervals [298]:
+            xmin = 107.60000
+            xmax = 107.90000
+            text = "the"
+        intervals [299]:
+            xmin = 107.90000
+            xmax = 108.44000
+            text = "edge"
+        intervals [300]:
+            xmin = 108.44000
+            xmax = 108.86000
+            text = "of"
+        intervals [301]:
+            xmin = 108.86000
+            xmax = 109.06000
+            text = "my"
+        intervals [302]:
+            xmin = 109.06000
+            xmax = 109.46000
+            text = "jaw"
+        intervals [303]:
+            xmin = 109.46000
+            xmax = 112.72000
+            text = "around"
+        intervals [304]:
+            xmin = 112.72000
+            xmax = 113.02000
+            text = "the"
+        intervals [305]:
+            xmin = 113.02000
+            xmax = 113.22000
+            text = "bridge"
+        intervals [306]:
+            xmin = 113.22000
+            xmax = 113.34000
+            text = "of"
+        intervals [307]:
+            xmin = 113.34000
+            xmax = 113.44000
+            text = "my"
+        intervals [308]:
+            xmin = 113.44000
+            xmax = 113.74000
+            text = "nose."
+        intervals [309]:
+            xmin = 113.74000
+            xmax = 117.60000
+            text = ""
+        intervals [310]:
+            xmin = 117.60000
+            xmax = 118.00000
+            text = "A"
+        intervals [311]:
+            xmin = 118.00000
+            xmax = 118.34000
+            text = "little"
+        intervals [312]:
+            xmin = 118.34000
+            xmax = 118.56000
+            text = "bit"
+        intervals [313]:
+            xmin = 118.56000
+            xmax = 118.78000
+            text = "to"
+        intervals [314]:
+            xmin = 118.78000
+            xmax = 118.94000
+            text = "round"
+        intervals [315]:
+            xmin = 118.94000
+            xmax = 119.10000
+            text = "out"
+        intervals [316]:
+            xmin = 119.10000
+            xmax = 119.24000
+            text = "my"
+        intervals [317]:
+            xmin = 119.24000
+            xmax = 119.60000
+            text = "cheeks"
+        intervals [318]:
+            xmin = 119.60000
+            xmax = 122.64000
+            text = "and"
+        intervals [319]:
+            xmin = 122.64000
+            xmax = 122.84000
+            text = "up"
+        intervals [320]:
+            xmin = 122.84000
+            xmax = 122.96000
+            text = "by"
+        intervals [321]:
+            xmin = 122.96000
+            xmax = 123.10000
+            text = "my"
+        intervals [322]:
+            xmin = 123.10000
+            xmax = 123.36000
+            text = "temples."
+        intervals [323]:
+            xmin = 123.36000
+            xmax = 123.68000
+            text = ""
+        intervals [324]:
+            xmin = 123.68000
+            xmax = 123.84000
+            text = "Now"
+        intervals [325]:
+            xmin = 123.84000
+            xmax = 124.06000
+            text = "I"
+        intervals [326]:
+            xmin = 124.06000
+            xmax = 124.18000
+            text = "will"
+        intervals [327]:
+            xmin = 124.18000
+            xmax = 124.32000
+            text = "just"
+        intervals [328]:
+            xmin = 124.32000
+            xmax = 124.50000
+            text = "blend"
+        intervals [329]:
+            xmin = 124.50000
+            xmax = 124.68000
+            text = "that"
+        intervals [330]:
+            xmin = 124.68000
+            xmax = 124.88000
+            text = "out."
+        intervals [331]:
+            xmin = 124.88000
+            xmax = 131.74000
+            text = ""
+        intervals [332]:
+            xmin = 131.74000
+            xmax = 132.14000
+            text = "And"
+        intervals [333]:
+            xmin = 132.14000
+            xmax = 132.26000
+            text = "with"
+        intervals [334]:
+            xmin = 132.26000
+            xmax = 132.36000
+            text = "that"
+        intervals [335]:
+            xmin = 132.36000
+            xmax = 132.50000
+            text = "out"
+        intervals [336]:
+            xmin = 132.50000
+            xmax = 132.58000
+            text = "of"
+        intervals [337]:
+            xmin = 132.58000
+            xmax = 132.66000
+            text = "the"
+        intervals [338]:
+            xmin = 132.66000
+            xmax = 132.80000
+            text = "way,"
+        intervals [339]:
+            xmin = 132.80000
+            xmax = 132.90000
+            text = ""
+        intervals [340]:
+            xmin = 132.90000
+            xmax = 133.00000
+            text = "I"
+        intervals [341]:
+            xmin = 133.00000
+            xmax = 133.14000
+            text = "think"
+        intervals [342]:
+            xmin = 133.14000
+            xmax = 133.32000
+            text = "I'll"
+        intervals [343]:
+            xmin = 133.32000
+            xmax = 133.40000
+            text = "go"
+        intervals [344]:
+            xmin = 133.40000
+            xmax = 133.56000
+            text = "ahead"
+        intervals [345]:
+            xmin = 133.56000
+            xmax = 133.64000
+            text = "and"
+        intervals [346]:
+            xmin = 133.64000
+            xmax = 133.86000
+            text = "apply"
+        intervals [347]:
+            xmin = 133.86000
+            xmax = 134.02000
+            text = "my"
+        intervals [348]:
+            xmin = 134.02000
+            xmax = 134.36000
+            text = "eye"
+        intervals [349]:
+            xmin = 134.36000
+            xmax = 134.60000
+            text = "tape."
+        intervals [350]:
+            xmin = 134.60000
+            xmax = 134.80000
+            text = "I"
+        intervals [351]:
+            xmin = 134.80000
+            xmax = 134.88000
+            text = "had"
+        intervals [352]:
+            xmin = 134.88000
+            xmax = 134.94000
+            text = "to"
+        intervals [353]:
+            xmin = 134.94000
+            xmax = 135.16000
+            text = "apply"
+        intervals [354]:
+            xmin = 135.16000
+            xmax = 135.32000
+            text = "this"
+        intervals [355]:
+            xmin = 135.32000
+            xmax = 135.62000
+            text = "off"
+        intervals [356]:
+            xmin = 135.62000
+            xmax = 135.94000
+            text = "-screen"
+        intervals [357]:
+            xmin = 135.94000
+            xmax = 136.22000
+            text = "once"
+        intervals [358]:
+            xmin = 136.22000
+            xmax = 136.48000
+            text = "again"
+        intervals [359]:
+            xmin = 136.48000
+            xmax = 136.76000
+            text = "because"
+        intervals [360]:
+            xmin = 136.76000
+            xmax = 136.98000
+            text = "they"
+        intervals [361]:
+            xmin = 136.98000
+            xmax = 137.12000
+            text = "are"
+        intervals [362]:
+            xmin = 137.12000
+            xmax = 137.48000
+            text = "so"
+        intervals [363]:
+            xmin = 137.48000
+            xmax = 137.68000
+            text = "hard"
+        intervals [364]:
+            xmin = 137.68000
+            xmax = 137.82000
+            text = "to"
+        intervals [365]:
+            xmin = 137.82000
+            xmax = 137.96000
+            text = "put"
+        intervals [366]:
+            xmin = 137.96000
+            xmax = 138.16000
+            text = "on"
+        intervals [367]:
+            xmin = 138.16000
+            xmax = 138.46000
+            text = "without"
+        intervals [368]:
+            xmin = 138.46000
+            xmax = 138.72000
+            text = "a"
+        intervals [369]:
+            xmin = 138.72000
+            xmax = 139.04000
+            text = "proper"
+        intervals [370]:
+            xmin = 139.04000
+            xmax = 139.40000
+            text = "mirror."
+        intervals [371]:
+            xmin = 139.40000
+            xmax = 139.66000
+            text = ""
+        intervals [372]:
+            xmin = 139.66000
+            xmax = 139.80000
+            text = "Now"
+        intervals [373]:
+            xmin = 139.80000
+            xmax = 140.00000
+            text = "let's"
+        intervals [374]:
+            xmin = 140.00000
+            xmax = 140.10000
+            text = "go"
+        intervals [375]:
+            xmin = 140.10000
+            xmax = 140.22000
+            text = "ahead"
+        intervals [376]:
+            xmin = 140.22000
+            xmax = 140.36000
+            text = "and"
+        intervals [377]:
+            xmin = 140.36000
+            xmax = 140.44000
+            text = "put"
+        intervals [378]:
+            xmin = 140.44000
+            xmax = 140.58000
+            text = "on"
+        intervals [379]:
+            xmin = 140.58000
+            xmax = 140.70000
+            text = "some"
+        intervals [380]:
+            xmin = 140.70000
+            xmax = 141.02000
+            text = "eyeliner."
+        intervals [381]:
+            xmin = 141.02000
+            xmax = 141.26000
+            text = ""
+        intervals [382]:
+            xmin = 141.26000
+            xmax = 141.42000
+            text = "Off"
+        intervals [383]:
+            xmin = 141.42000
+            xmax = 141.66000
+            text = "-screen"
+        intervals [384]:
+            xmin = 141.66000
+            xmax = 141.88000
+            text = "again."
+        intervals [385]:
+            xmin = 141.88000
+            xmax = 142.36000
+            text = ""
+        intervals [386]:
+            xmin = 142.36000
+            xmax = 142.80000
+            text = "Now"
+        intervals [387]:
+            xmin = 142.80000
+            xmax = 143.02000
+            text = "I'll"
+        intervals [388]:
+            xmin = 143.02000
+            xmax = 143.18000
+            text = "start"
+        intervals [389]:
+            xmin = 143.18000
+            xmax = 143.38000
+            text = "putting"
+        intervals [390]:
+            xmin = 143.38000
+            xmax = 143.58000
+            text = "on"
+        intervals [391]:
+            xmin = 143.58000
+            xmax = 143.74000
+            text = "some"
+        intervals [392]:
+            xmin = 143.74000
+            xmax = 144.02000
+            text = "blush."
+        intervals [393]:
+            xmin = 144.02000
+            xmax = 144.24000
+            text = ""
+        intervals [394]:
+            xmin = 144.24000
+            xmax = 144.38000
+            text = "It's"
+        intervals [395]:
+            xmin = 144.38000
+            xmax = 144.62000
+            text = "important"
+        intervals [396]:
+            xmin = 144.62000
+            xmax = 144.76000
+            text = "to"
+        intervals [397]:
+            xmin = 144.76000
+            xmax = 144.88000
+            text = "make"
+        intervals [398]:
+            xmin = 144.88000
+            xmax = 145.04000
+            text = "sure"
+        intervals [399]:
+            xmin = 145.04000
+            xmax = 145.14000
+            text = "to"
+        intervals [400]:
+            xmin = 145.14000
+            xmax = 145.36000
+            text = "try"
+        intervals [401]:
+            xmin = 145.36000
+            xmax = 145.46000
+            text = "to"
+        intervals [402]:
+            xmin = 145.46000
+            xmax = 145.58000
+            text = "get"
+        intervals [403]:
+            xmin = 145.58000
+            xmax = 145.74000
+            text = "the"
+        intervals [404]:
+            xmin = 145.74000
+            xmax = 146.20000
+            text = "apples"
+        intervals [405]:
+            xmin = 146.20000
+            xmax = 146.44000
+            text = "of"
+        intervals [406]:
+            xmin = 146.44000
+            xmax = 146.62000
+            text = "your"
+        intervals [407]:
+            xmin = 146.62000
+            xmax = 146.84000
+            text = "cheeks"
+        intervals [408]:
+            xmin = 146.84000
+            xmax = 147.32000
+            text = "and"
+        intervals [409]:
+            xmin = 147.32000
+            xmax = 147.64000
+            text = "not"
+        intervals [410]:
+            xmin = 147.64000
+            xmax = 147.94000
+            text = "like"
+        intervals [411]:
+            xmin = 147.94000
+            xmax = 148.62000
+            text = "around"
+        intervals [412]:
+            xmin = 148.62000
+            xmax = 149.12000
+            text = "your"
+        intervals [413]:
+            xmin = 149.12000
+            xmax = 149.98000
+            text = "cheekbones"
+        intervals [414]:
+            xmin = 149.98000
+            xmax = 150.44000
+            text = "for"
+        intervals [415]:
+            xmin = 150.44000
+            xmax = 151.28000
+            text = "masculine"
+        intervals [416]:
+            xmin = 151.28000
+            xmax = 151.80000
+            text = "faces."
+        intervals [417]:
+            xmin = 151.80000
+            xmax = 152.08000
+            text = ""
+        intervals [418]:
+            xmin = 152.08000
+            xmax = 152.34000
+            text = "Because"
+        intervals [419]:
+            xmin = 152.34000
+            xmax = 152.70000
+            text = "if"
+        intervals [420]:
+            xmin = 152.70000
+            xmax = 152.88000
+            text = "you"
+        intervals [421]:
+            xmin = 152.88000
+            xmax = 153.16000
+            text = "highlight"
+        intervals [422]:
+            xmin = 153.16000
+            xmax = 153.36000
+            text = "your"
+        intervals [423]:
+            xmin = 153.36000
+            xmax = 153.90000
+            text = "cheekbones"
+        intervals [424]:
+            xmin = 153.90000
+            xmax = 154.14000
+            text = "with"
+        intervals [425]:
+            xmin = 154.14000
+            xmax = 154.24000
+            text = "the"
+        intervals [426]:
+            xmin = 154.24000
+            xmax = 154.54000
+            text = "blush,"
+        intervals [427]:
+            xmin = 154.54000
+            xmax = 154.64000
+            text = ""
+        intervals [428]:
+            xmin = 154.64000
+            xmax = 154.82000
+            text = "it"
+        intervals [429]:
+            xmin = 154.82000
+            xmax = 154.98000
+            text = "can"
+        intervals [430]:
+            xmin = 154.98000
+            xmax = 155.36000
+            text = "highlight"
+        intervals [431]:
+            xmin = 155.36000
+            xmax = 155.62000
+            text = "the"
+        intervals [432]:
+            xmin = 155.62000
+            xmax = 155.86000
+            text = "fact"
+        intervals [433]:
+            xmin = 155.86000
+            xmax = 156.02000
+            text = "that"
+        intervals [434]:
+            xmin = 156.02000
+            xmax = 156.32000
+            text = "you"
+        intervals [435]:
+            xmin = 156.32000
+            xmax = 156.52000
+            text = "have"
+        intervals [436]:
+            xmin = 156.52000
+            xmax = 156.60000
+            text = "a"
+        intervals [437]:
+            xmin = 156.60000
+            xmax = 156.70000
+            text = "more"
+        intervals [438]:
+            xmin = 156.70000
+            xmax = 157.04000
+            text = "masculine"
+        intervals [439]:
+            xmin = 157.04000
+            xmax = 157.38000
+            text = "face."
+        intervals [440]:
+            xmin = 157.38000
+            xmax = 157.56000
+            text = ""
+        intervals [441]:
+            xmin = 157.56000
+            xmax = 157.64000
+            text = "I"
+        intervals [442]:
+            xmin = 157.64000
+            xmax = 157.72000
+            text = "got"
+        intervals [443]:
+            xmin = 157.72000
+            xmax = 157.90000
+            text = "this"
+        intervals [444]:
+            xmin = 157.90000
+            xmax = 158.04000
+            text = "new"
+        intervals [445]:
+            xmin = 158.04000
+            xmax = 158.34000
+            text = "blush"
+        intervals [446]:
+            xmin = 158.34000
+            xmax = 158.60000
+            text = "from"
+        intervals [447]:
+            xmin = 158.60000
+            xmax = 158.96000
+            text = "ELF"
+        intervals [448]:
+            xmin = 158.96000
+            xmax = 159.10000
+            text = "and"
+        intervals [449]:
+            xmin = 159.10000
+            xmax = 159.48000
+            text = "honestly,"
+        intervals [450]:
+            xmin = 159.48000
+            xmax = 159.56000
+            text = ""
+        intervals [451]:
+            xmin = 159.56000
+            xmax = 159.66000
+            text = "I"
+        intervals [452]:
+            xmin = 159.66000
+            xmax = 159.80000
+            text = "love"
+        intervals [453]:
+            xmin = 159.80000
+            xmax = 159.92000
+            text = "it"
+        intervals [454]:
+            xmin = 159.92000
+            xmax = 160.06000
+            text = "so"
+        intervals [455]:
+            xmin = 160.06000
+            xmax = 160.30000
+            text = "far."
+        intervals [456]:
+            xmin = 160.30000
+            xmax = 162.76000
+            text = ""
+        intervals [457]:
+            xmin = 162.76000
+            xmax = 163.18000
+            text = "We"
+        intervals [458]:
+            xmin = 163.18000
+            xmax = 163.32000
+            text = "can"
+        intervals [459]:
+            xmin = 163.32000
+            xmax = 163.46000
+            text = "put"
+        intervals [460]:
+            xmin = 163.46000
+            xmax = 163.62000
+            text = "a"
+        intervals [461]:
+            xmin = 163.62000
+            xmax = 163.74000
+            text = "lot"
+        intervals [462]:
+            xmin = 163.74000
+            xmax = 163.86000
+            text = "of"
+        intervals [463]:
+            xmin = 163.86000
+            xmax = 164.00000
+            text = "blush"
+        intervals [464]:
+            xmin = 164.00000
+            xmax = 164.20000
+            text = "on"
+        intervals [465]:
+            xmin = 164.20000
+            xmax = 164.46000
+            text = "because,"
+        intervals [466]:
+            xmin = 164.46000
+            xmax = 164.68000
+            text = ""
+        intervals [467]:
+            xmin = 164.68000
+            xmax = 164.84000
+            text = "again,"
+        intervals [468]:
+            xmin = 164.84000
+            xmax = 165.06000
+            text = ""
+        intervals [469]:
+            xmin = 165.06000
+            xmax = 165.16000
+            text = "we're"
+        intervals [470]:
+            xmin = 165.16000
+            xmax = 165.54000
+            text = "cosplaying"
+        intervals [471]:
+            xmin = 165.54000
+            xmax = 165.72000
+            text = "in"
+        intervals [472]:
+            xmin = 165.72000
+            xmax = 165.98000
+            text = "anime"
+        intervals [473]:
+            xmin = 165.98000
+            xmax = 166.48000
+            text = "character."
+        intervals [474]:
+            xmin = 166.48000
+            xmax = 166.76000
+            text = ""
+        intervals [475]:
+            xmin = 166.76000
+            xmax = 166.84000
+            text = "If"
+        intervals [476]:
+            xmin = 166.84000
+            xmax = 167.00000
+            text = "this"
+        intervals [477]:
+            xmin = 167.00000
+            xmax = 167.10000
+            text = "was"
+        intervals [478]:
+            xmin = 167.10000
+            xmax = 167.22000
+            text = "a"
+        intervals [479]:
+            xmin = 167.22000
+            xmax = 167.42000
+            text = "regular"
+        intervals [480]:
+            xmin = 167.42000
+            xmax = 167.72000
+            text = "look,"
+        intervals [481]:
+            xmin = 167.72000
+            xmax = 167.82000
+            text = ""
+        intervals [482]:
+            xmin = 167.82000
+            xmax = 167.90000
+            text = "I"
+        intervals [483]:
+            xmin = 167.90000
+            xmax = 168.04000
+            text = "would"
+        intervals [484]:
+            xmin = 168.04000
+            xmax = 168.54000
+            text = "probably"
+        intervals [485]:
+            xmin = 168.54000
+            xmax = 168.78000
+            text = "put"
+        intervals [486]:
+            xmin = 168.78000
+            xmax = 168.94000
+            text = "on"
+        intervals [487]:
+            xmin = 168.94000
+            xmax = 169.08000
+            text = "a"
+        intervals [488]:
+            xmin = 169.08000
+            xmax = 169.20000
+            text = "lot"
+        intervals [489]:
+            xmin = 169.20000
+            xmax = 169.38000
+            text = "less"
+        intervals [490]:
+            xmin = 169.38000
+            xmax = 169.72000
+            text = "blush."
+        intervals [491]:
+            xmin = 169.72000
+            xmax = 169.84000
+            text = ""
+        intervals [492]:
+            xmin = 169.84000
+            xmax = 169.96000
+            text = "Speaking"
+        intervals [493]:
+            xmin = 169.96000
+            xmax = 170.18000
+            text = "of"
+        intervals [494]:
+            xmin = 170.18000
+            xmax = 170.28000
+            text = "an"
+        intervals [495]:
+            xmin = 170.28000
+            xmax = 170.60000
+            text = "everyday"
+        intervals [496]:
+            xmin = 170.60000
+            xmax = 170.96000
+            text = "look,"
+        intervals [497]:
+            xmin = 170.96000
+            xmax = 171.24000
+            text = ""
+        intervals [498]:
+            xmin = 171.24000
+            xmax = 171.38000
+            text = "if"
+        intervals [499]:
+            xmin = 171.38000
+            xmax = 171.52000
+            text = "I"
+        intervals [500]:
+            xmin = 171.52000
+            xmax = 171.74000
+            text = "made"
+        intervals [501]:
+            xmin = 171.74000
+            xmax = 171.98000
+            text = "an"
+        intervals [502]:
+            xmin = 171.98000
+            xmax = 172.68000
+            text = "everyday"
+        intervals [503]:
+            xmin = 172.68000
+            xmax = 173.12000
+            text = "trans"
+        intervals [504]:
+            xmin = 173.12000
+            xmax = 173.46000
+            text = "feminine"
+        intervals [505]:
+            xmin = 173.46000
+            xmax = 174.30000
+            text = "makeup"
+        intervals [506]:
+            xmin = 174.30000
+            xmax = 174.74000
+            text = "tutorial,"
+        intervals [507]:
+            xmin = 174.74000
+            xmax = 175.12000
+            text = ""
+        intervals [508]:
+            xmin = 175.12000
+            xmax = 175.16000
+            text = "would"
+        intervals [509]:
+            xmin = 175.16000
+            xmax = 176.26000
+            text = "y"
+        intervals [510]:
+            xmin = 176.26000
+            xmax = 176.30000
+            text = "'all"
+        intervals [511]:
+            xmin = 176.30000
+            xmax = 176.62000
+            text = "watch?"
+        intervals [512]:
+            xmin = 176.62000
+            xmax = 177.90000
+            text = ""
+        intervals [513]:
+            xmin = 177.90000
+            xmax = 178.14000
+            text = "Let"
+        intervals [514]:
+            xmin = 178.14000
+            xmax = 178.20000
+            text = "me"
+        intervals [515]:
+            xmin = 178.20000
+            xmax = 178.32000
+            text = "know"
+        intervals [516]:
+            xmin = 178.32000
+            xmax = 178.40000
+            text = "in"
+        intervals [517]:
+            xmin = 178.40000
+            xmax = 178.46000
+            text = "the"
+        intervals [518]:
+            xmin = 178.46000
+            xmax = 178.66000
+            text = "comments."
+        intervals [519]:
+            xmin = 178.66000
+            xmax = 179.04000
+            text = ""
+        intervals [520]:
+            xmin = 179.04000
+            xmax = 179.40000
+            text = "Now"
+        intervals [521]:
+            xmin = 179.40000
+            xmax = 179.60000
+            text = "I'm"
+        intervals [522]:
+            xmin = 179.60000
+            xmax = 179.68000
+            text = "going"
+        intervals [523]:
+            xmin = 179.68000
+            xmax = 179.70000
+            text = "to"
+        intervals [524]:
+            xmin = 179.70000
+            xmax = 179.92000
+            text = "apply"
+        intervals [525]:
+            xmin = 179.92000
+            xmax = 180.14000
+            text = "some"
+        intervals [526]:
+            xmin = 180.14000
+            xmax = 180.68000
+            text = "illuminating"
+        intervals [527]:
+            xmin = 180.68000
+            xmax = 181.20000
+            text = "powder"
+        intervals [528]:
+            xmin = 181.20000
+            xmax = 181.54000
+            text = "down"
+        intervals [529]:
+            xmin = 181.54000
+            xmax = 181.66000
+            text = "the"
+        intervals [530]:
+            xmin = 181.66000
+            xmax = 181.86000
+            text = "bridge"
+        intervals [531]:
+            xmin = 181.86000
+            xmax = 182.04000
+            text = "of"
+        intervals [532]:
+            xmin = 182.04000
+            xmax = 182.16000
+            text = "my"
+        intervals [533]:
+            xmin = 182.16000
+            xmax = 182.72000
+            text = "nose."
+        intervals [534]:
+            xmin = 182.72000
+            xmax = 183.12000
+            text = ""
+        intervals [535]:
+            xmin = 183.12000
+            xmax = 183.28000
+            text = "A"
+        intervals [536]:
+            xmin = 183.28000
+            xmax = 183.68000
+            text = "tiny,"
+        intervals [537]:
+            xmin = 183.68000
+            xmax = 183.86000
+            text = ""
+        intervals [538]:
+            xmin = 183.86000
+            xmax = 184.54000
+            text = "tiny"
+        intervals [539]:
+            xmin = 184.54000
+            xmax = 185.00000
+            text = "bit"
+        intervals [540]:
+            xmin = 185.00000
+            xmax = 185.52000
+            text = "above"
+        intervals [541]:
+            xmin = 185.52000
+            xmax = 186.16000
+            text = "my"
+        intervals [542]:
+            xmin = 186.16000
+            xmax = 186.54000
+            text = "top"
+        intervals [543]:
+            xmin = 186.54000
+            xmax = 186.82000
+            text = "lip"
+        intervals [544]:
+            xmin = 186.82000
+            xmax = 187.18000
+            text = "and"
+        intervals [545]:
+            xmin = 187.18000
+            xmax = 187.58000
+            text = "around"
+        intervals [546]:
+            xmin = 187.58000
+            xmax = 187.80000
+            text = "where"
+        intervals [547]:
+            xmin = 187.80000
+            xmax = 187.92000
+            text = "I"
+        intervals [548]:
+            xmin = 187.92000
+            xmax = 188.12000
+            text = "just"
+        intervals [549]:
+            xmin = 188.12000
+            xmax = 188.30000
+            text = "put"
+        intervals [550]:
+            xmin = 188.30000
+            xmax = 188.42000
+            text = "my"
+        intervals [551]:
+            xmin = 188.42000
+            xmax = 188.70000
+            text = "blush."
+        intervals [552]:
+            xmin = 188.70000
+            xmax = 189.02000
+            text = "I'm"
+        intervals [553]:
+            xmin = 189.02000
+            xmax = 189.14000
+            text = "just"
+        intervals [554]:
+            xmin = 189.14000
+            xmax = 189.30000
+            text = "going"
+        intervals [555]:
+            xmin = 189.30000
+            xmax = 189.34000
+            text = "to"
+        intervals [556]:
+            xmin = 189.34000
+            xmax = 189.48000
+            text = "do"
+        intervals [557]:
+            xmin = 189.48000
+            xmax = 189.56000
+            text = "it"
+        intervals [558]:
+            xmin = 189.56000
+            xmax = 189.70000
+            text = "with"
+        intervals [559]:
+            xmin = 189.70000
+            xmax = 189.84000
+            text = "my"
+        intervals [560]:
+            xmin = 189.84000
+            xmax = 190.14000
+            text = "finger"
+        intervals [561]:
+            xmin = 190.14000
+            xmax = 190.62000
+            text = "because"
+        intervals [562]:
+            xmin = 190.62000
+            xmax = 191.70000
+            text = "the"
+        intervals [563]:
+            xmin = 191.70000
+            xmax = 191.82000
+            text = "cup"
+        intervals [564]:
+            xmin = 191.82000
+            xmax = 192.06000
+            text = "tiny,"
+        intervals [565]:
+            xmin = 192.06000
+            xmax = 192.18000
+            text = ""
+        intervals [566]:
+            xmin = 192.18000
+            xmax = 192.30000
+            text = "this"
+        intervals [567]:
+            xmin = 192.30000
+            xmax = 192.44000
+            text = "little"
+        intervals [568]:
+            xmin = 192.44000
+            xmax = 192.68000
+            text = "thing"
+        intervals [569]:
+            xmin = 192.68000
+            xmax = 193.02000
+            text = "is..."
+        intervals [570]:
+            xmin = 193.02000
+            xmax = 195.58000
+            text = ""
+        intervals [571]:
+            xmin = 195.58000
+            xmax = 195.90000
+            text = "Perfect."
+        intervals [572]:
+            xmin = 195.90000
+            xmax = 196.36000
+            text = ""
+        intervals [573]:
+            xmin = 196.36000
+            xmax = 196.54000
+            text = "With"
+        intervals [574]:
+            xmin = 196.54000
+            xmax = 196.76000
+            text = "that,"
+        intervals [575]:
+            xmin = 196.76000
+            xmax = 196.84000
+            text = ""
+        intervals [576]:
+            xmin = 196.84000
+            xmax = 196.96000
+            text = "I"
+        intervals [577]:
+            xmin = 196.96000
+            xmax = 197.14000
+            text = "think"
+        intervals [578]:
+            xmin = 197.14000
+            xmax = 197.30000
+            text = "we"
+        intervals [579]:
+            xmin = 197.30000
+            xmax = 197.44000
+            text = "can"
+        intervals [580]:
+            xmin = 197.44000
+            xmax = 197.58000
+            text = "go"
+        intervals [581]:
+            xmin = 197.58000
+            xmax = 197.78000
+            text = "ahead"
+        intervals [582]:
+            xmin = 197.78000
+            xmax = 198.04000
+            text = "and"
+        intervals [583]:
+            xmin = 198.04000
+            xmax = 198.42000
+            text = "apply"
+        intervals [584]:
+            xmin = 198.42000
+            xmax = 198.74000
+            text = "our"
+        intervals [585]:
+            xmin = 198.74000
+            xmax = 199.04000
+            text = "fake"
+        intervals [586]:
+            xmin = 199.04000
+            xmax = 199.48000
+            text = "lashes"
+        intervals [587]:
+            xmin = 199.48000
+            xmax = 199.88000
+            text = "now."
+        intervals [588]:
+            xmin = 199.88000
+            xmax = 200.08000
+            text = ""
+        intervals [589]:
+            xmin = 200.08000
+            xmax = 200.26000
+            text = "Now"
+        intervals [590]:
+            xmin = 200.26000
+            xmax = 200.58000
+            text = "let's"
+        intervals [591]:
+            xmin = 200.58000
+            xmax = 200.70000
+            text = "go"
+        intervals [592]:
+            xmin = 200.70000
+            xmax = 200.86000
+            text = "ahead"
+        intervals [593]:
+            xmin = 200.86000
+            xmax = 200.98000
+            text = "and"
+        intervals [594]:
+            xmin = 200.98000
+            xmax = 201.06000
+            text = "put"
+        intervals [595]:
+            xmin = 201.06000
+            xmax = 201.18000
+            text = "on"
+        intervals [596]:
+            xmin = 201.18000
+            xmax = 201.34000
+            text = "some"
+        intervals [597]:
+            xmin = 201.34000
+            xmax = 201.48000
+            text = "lip"
+        intervals [598]:
+            xmin = 201.48000
+            xmax = 201.74000
+            text = "gloss."
+        intervals [599]:
+            xmin = 201.74000
+            xmax = 203.70000
+            text = ""
+        intervals [600]:
+            xmin = 203.70000
+            xmax = 204.02000
+            text = "Now,"
+        intervals [601]:
+            xmin = 204.02000
+            xmax = 204.04000
+            text = ""
+        intervals [602]:
+            xmin = 204.04000
+            xmax = 204.26000
+            text = "before"
+        intervals [603]:
+            xmin = 204.26000
+            xmax = 204.42000
+            text = "we"
+        intervals [604]:
+            xmin = 204.42000
+            xmax = 204.54000
+            text = "go"
+        intervals [605]:
+            xmin = 204.54000
+            xmax = 204.68000
+            text = "ahead"
+        intervals [606]:
+            xmin = 204.68000
+            xmax = 204.82000
+            text = "and"
+        intervals [607]:
+            xmin = 204.82000
+            xmax = 204.90000
+            text = "put"
+        intervals [608]:
+            xmin = 204.90000
+            xmax = 205.00000
+            text = "on"
+        intervals [609]:
+            xmin = 205.00000
+            xmax = 205.10000
+            text = "the"
+        intervals [610]:
+            xmin = 205.10000
+            xmax = 205.40000
+            text = "cosplay,"
+        intervals [611]:
+            xmin = 205.40000
+            xmax = 205.74000
+            text = ""
+        intervals [612]:
+            xmin = 205.74000
+            xmax = 205.86000
+            text = "I"
+        intervals [613]:
+            xmin = 205.86000
+            xmax = 206.00000
+            text = "just"
+        intervals [614]:
+            xmin = 206.00000
+            xmax = 206.14000
+            text = "want"
+        intervals [615]:
+            xmin = 206.14000
+            xmax = 206.20000
+            text = "to"
+        intervals [616]:
+            xmin = 206.20000
+            xmax = 206.44000
+            text = "explain"
+        intervals [617]:
+            xmin = 206.44000
+            xmax = 206.68000
+            text = "how"
+        intervals [618]:
+            xmin = 206.68000
+            xmax = 206.78000
+            text = "I"
+        intervals [619]:
+            xmin = 206.78000
+            xmax = 206.88000
+            text = "do"
+        intervals [620]:
+            xmin = 206.88000
+            xmax = 207.02000
+            text = "the"
+        intervals [621]:
+            xmin = 207.02000
+            xmax = 207.30000
+            text = "chest"
+        intervals [622]:
+            xmin = 207.30000
+            xmax = 207.48000
+            text = "for"
+        intervals [623]:
+            xmin = 207.48000
+            xmax = 207.58000
+            text = "this"
+        intervals [624]:
+            xmin = 207.58000
+            xmax = 207.92000
+            text = "cosplay."
+        intervals [625]:
+            xmin = 207.92000
+            xmax = 208.02000
+            text = ""
+        intervals [626]:
+            xmin = 208.02000
+            xmax = 208.08000
+            text = "In"
+        intervals [627]:
+            xmin = 208.08000
+            xmax = 208.18000
+            text = "a"
+        intervals [628]:
+            xmin = 208.18000
+            xmax = 208.28000
+            text = "lot"
+        intervals [629]:
+            xmin = 208.28000
+            xmax = 208.40000
+            text = "of"
+        intervals [630]:
+            xmin = 208.40000
+            xmax = 208.62000
+            text = "other"
+        intervals [631]:
+            xmin = 208.62000
+            xmax = 209.12000
+            text = "cosplays"
+        intervals [632]:
+            xmin = 209.12000
+            xmax = 209.22000
+            text = "that"
+        intervals [633]:
+            xmin = 209.22000
+            xmax = 209.34000
+            text = "I've"
+        intervals [634]:
+            xmin = 209.34000
+            xmax = 209.56000
+            text = "posted"
+        intervals [635]:
+            xmin = 209.56000
+            xmax = 209.88000
+            text = "this"
+        intervals [636]:
+            xmin = 209.88000
+            xmax = 210.16000
+            text = "channel,"
+        intervals [637]:
+            xmin = 210.16000
+            xmax = 210.48000
+            text = ""
+        intervals [638]:
+            xmin = 210.48000
+            xmax = 210.68000
+            text = "I've"
+        intervals [639]:
+            xmin = 210.68000
+            xmax = 210.84000
+            text = "used"
+        intervals [640]:
+            xmin = 210.84000
+            xmax = 210.98000
+            text = "a"
+        intervals [641]:
+            xmin = 210.98000
+            xmax = 211.38000
+            text = "silicone"
+        intervals [642]:
+            xmin = 211.38000
+            xmax = 211.88000
+            text = "breastplate."
+        intervals [643]:
+            xmin = 211.88000
+            xmax = 212.04000
+            text = ""
+        intervals [644]:
+            xmin = 212.04000
+            xmax = 212.18000
+            text = "But"
+        intervals [645]:
+            xmin = 212.18000
+            xmax = 212.36000
+            text = "in"
+        intervals [646]:
+            xmin = 212.36000
+            xmax = 212.52000
+            text = "this"
+        intervals [647]:
+            xmin = 212.52000
+            xmax = 212.70000
+            text = "one,"
+        intervals [648]:
+            xmin = 212.70000
+            xmax = 212.74000
+            text = ""
+        intervals [649]:
+            xmin = 212.74000
+            xmax = 212.88000
+            text = "we're"
+        intervals [650]:
+            xmin = 212.88000
+            xmax = 213.12000
+            text = "not"
+        intervals [651]:
+            xmin = 213.12000
+            xmax = 213.48000
+            text = "showing"
+        intervals [652]:
+            xmin = 213.48000
+            xmax = 213.82000
+            text = "any"
+        intervals [653]:
+            xmin = 213.82000
+            xmax = 214.46000
+            text = "cleavage."
+        intervals [654]:
+            xmin = 214.46000
+            xmax = 214.76000
+            text = "So"
+        intervals [655]:
+            xmin = 214.76000
+            xmax = 215.32000
+            text = "instead,"
+        intervals [656]:
+            xmin = 215.32000
+            xmax = 215.48000
+            text = ""
+        intervals [657]:
+            xmin = 215.48000
+            xmax = 215.64000
+            text = "I'm"
+        intervals [658]:
+            xmin = 215.64000
+            xmax = 215.80000
+            text = "just"
+        intervals [659]:
+            xmin = 215.80000
+            xmax = 215.94000
+            text = "going"
+        intervals [660]:
+            xmin = 215.94000
+            xmax = 216.00000
+            text = "to"
+        intervals [661]:
+            xmin = 216.00000
+            xmax = 216.14000
+            text = "put"
+        intervals [662]:
+            xmin = 216.14000
+            xmax = 216.28000
+            text = "on"
+        intervals [663]:
+            xmin = 216.28000
+            xmax = 216.42000
+            text = "a"
+        intervals [664]:
+            xmin = 216.42000
+            xmax = 216.58000
+            text = "bra"
+        intervals [665]:
+            xmin = 216.58000
+            xmax = 216.88000
+            text = "and"
+        intervals [666]:
+            xmin = 216.88000
+            xmax = 217.14000
+            text = "put"
+        intervals [667]:
+            xmin = 217.14000
+            xmax = 217.38000
+            text = "in"
+        intervals [668]:
+            xmin = 217.38000
+            xmax = 217.80000
+            text = "silicone"
+        intervals [669]:
+            xmin = 217.80000
+            xmax = 218.44000
+            text = "inserts"
+        intervals [670]:
+            xmin = 218.44000
+            xmax = 218.82000
+            text = "on"
+        intervals [671]:
+            xmin = 218.82000
+            xmax = 218.92000
+            text = "the"
+        intervals [672]:
+            xmin = 218.92000
+            xmax = 219.20000
+            text = "inside."
+        intervals [673]:
+            xmin = 219.20000
+            xmax = 219.34000
+            text = ""
+        intervals [674]:
+            xmin = 219.34000
+            xmax = 219.44000
+            text = "It"
+        intervals [675]:
+            xmin = 219.44000
+            xmax = 219.58000
+            text = "should"
+        intervals [676]:
+            xmin = 219.58000
+            xmax = 219.74000
+            text = "give"
+        intervals [677]:
+            xmin = 219.74000
+            xmax = 219.88000
+            text = "the"
+        intervals [678]:
+            xmin = 219.88000
+            xmax = 220.08000
+            text = "same"
+        intervals [679]:
+            xmin = 220.08000
+            xmax = 220.44000
+            text = "effect"
+        intervals [680]:
+            xmin = 220.44000
+            xmax = 220.70000
+            text = "without"
+        intervals [681]:
+            xmin = 220.70000
+            xmax = 221.02000
+            text = "having"
+        intervals [682]:
+            xmin = 221.02000
+            xmax = 221.20000
+            text = "to"
+        intervals [683]:
+            xmin = 221.20000
+            xmax = 221.34000
+            text = "wear"
+        intervals [684]:
+            xmin = 221.34000
+            xmax = 222.00000
+            text = "a"
+        intervals [685]:
+            xmin = 222.00000
+            xmax = 222.34000
+            text = "giant"
+        intervals [686]:
+            xmin = 222.34000
+            xmax = 222.84000
+            text = "silicone"
+        intervals [687]:
+            xmin = 222.84000
+            xmax = 223.34000
+            text = "breastplate."
+        intervals [688]:
+            xmin = 223.34000
+            xmax = 224.02000
+            text = ""
+        intervals [689]:
+            xmin = 224.02000
+            xmax = 224.42000
+            text = "Considering"
+        intervals [690]:
+            xmin = 224.42000
+            xmax = 224.80000
+            text = "that"
+        intervals [691]:
+            xmin = 224.80000
+            xmax = 225.12000
+            text = "there's"
+        intervals [692]:
+            xmin = 225.12000
+            xmax = 225.76000
+            text = "no"
+        intervals [693]:
+            xmin = 225.76000
+            xmax = 226.14000
+            text = "cleavage."
+        intervals [694]:
+            xmin = 226.14000
+            xmax = 226.34000
+            text = ""
+        intervals [695]:
+            xmin = 226.34000
+            xmax = 226.56000
+            text = "Just"
+        intervals [696]:
+            xmin = 226.56000
+            xmax = 226.76000
+            text = "so"
+        intervals [697]:
+            xmin = 226.76000
+            xmax = 226.88000
+            text = "y"
+        intervals [698]:
+            xmin = 226.88000
+            xmax = 226.94000
+            text = "'all"
+        intervals [699]:
+            xmin = 226.94000
+            xmax = 227.26000
+            text = "know,"
+        intervals [700]:
+            xmin = 227.26000
+            xmax = 227.54000
+            text = ""
+        intervals [701]:
+            xmin = 227.54000
+            xmax = 227.66000
+            text = "this"
+        intervals [702]:
+            xmin = 227.66000
+            xmax = 227.74000
+            text = "is"
+        intervals [703]:
+            xmin = 227.74000
+            xmax = 227.84000
+            text = "what"
+        intervals [704]:
+            xmin = 227.84000
+            xmax = 227.94000
+            text = "they"
+        intervals [705]:
+            xmin = 227.94000
+            xmax = 228.08000
+            text = "look"
+        intervals [706]:
+            xmin = 228.08000
+            xmax = 228.26000
+            text = "like."
+        intervals [707]:
+            xmin = 228.26000
+            xmax = 232.58000
+            text = ""
+        intervals [708]:
+            xmin = 232.58000
+            xmax = 232.98000
+            text = "Alright,"
+        intervals [709]:
+            xmin = 232.98000
+            xmax = 233.38000
+            text = "cosplay"
+        intervals [710]:
+            xmin = 233.38000
+            xmax = 233.76000
+            text = "time."
+        intervals [711]:
+            xmin = 233.76000
+            xmax = 236.56000
+            text = ""
+        intervals [712]:
+            xmin = 236.56000
+            xmax = 236.96000
+            text = "This"
+        intervals [713]:
+            xmin = 236.96000
+            xmax = 237.32000
+            text = "is"
+        intervals [714]:
+            xmin = 237.32000
+            xmax = 237.52000
+            text = "the"
+        intervals [715]:
+            xmin = 237.52000
+            xmax = 237.90000
+            text = "final"
+        intervals [716]:
+            xmin = 237.90000
+            xmax = 238.44000
+            text = "fit."
+        intervals [717]:
+            xmin = 238.44000
+            xmax = 238.62000
+            text = ""
+        intervals [718]:
+            xmin = 238.62000
+            xmax = 238.74000
+            text = "I'm"
+        intervals [719]:
+            xmin = 238.74000
+            xmax = 238.92000
+            text = "pretty"
+        intervals [720]:
+            xmin = 238.92000
+            xmax = 239.26000
+            text = "happy"
+        intervals [721]:
+            xmin = 239.26000
+            xmax = 239.52000
+            text = "with"
+        intervals [722]:
+            xmin = 239.52000
+            xmax = 239.70000
+            text = "it,"
+        intervals [723]:
+            xmin = 239.70000
+            xmax = 239.74000
+            text = ""
+        intervals [724]:
+            xmin = 239.74000
+            xmax = 239.94000
+            text = "but"
+        intervals [725]:
+            xmin = 239.94000
+            xmax = 240.12000
+            text = "I"
+        intervals [726]:
+            xmin = 240.12000
+            xmax = 240.26000
+            text = "do"
+        intervals [727]:
+            xmin = 240.26000
+            xmax = 240.48000
+            text = "wish"
+        intervals [728]:
+            xmin = 240.48000
+            xmax = 240.68000
+            text = "I"
+        intervals [729]:
+            xmin = 240.68000
+            xmax = 240.86000
+            text = "had"
+        intervals [730]:
+            xmin = 240.86000
+            xmax = 241.04000
+            text = "some"
+        intervals [731]:
+            xmin = 241.04000
+            xmax = 242.02000
+            text = "fake"
+        intervals [732]:
+            xmin = 242.02000
+            xmax = 242.64000
+            text = "vampire"
+        intervals [733]:
+            xmin = 242.64000
+            xmax = 242.94000
+            text = "teeth."
+        intervals [734]:
+            xmin = 242.94000
+            xmax = 243.14000
+            text = ""
+        intervals [735]:
+            xmin = 243.14000
+            xmax = 243.22000
+            text = "I"
+        intervals [736]:
+            xmin = 243.22000
+            xmax = 243.36000
+            text = "think"
+        intervals [737]:
+            xmin = 243.36000
+            xmax = 243.56000
+            text = "that'd"
+        intervals [738]:
+            xmin = 243.56000
+            xmax = 243.64000
+            text = "be"
+        intervals [739]:
+            xmin = 243.64000
+            xmax = 243.86000
+            text = "pretty"
+        intervals [740]:
+            xmin = 243.86000
+            xmax = 244.04000
+            text = "cool."
+        intervals [741]:
+            xmin = 244.04000
+            xmax = 244.24000
+            text = "And"
+        intervals [742]:
+            xmin = 244.24000
+            xmax = 244.44000
+            text = "maybe"
+        intervals [743]:
+            xmin = 244.44000
+            xmax = 244.62000
+            text = "like"
+        intervals [744]:
+            xmin = 244.62000
+            xmax = 244.76000
+            text = "a"
+        intervals [745]:
+            xmin = 244.76000
+            xmax = 244.94000
+            text = "better"
+        intervals [746]:
+            xmin = 244.94000
+            xmax = 245.32000
+            text = "quality"
+        intervals [747]:
+            xmin = 245.32000
+            xmax = 245.56000
+            text = "wig."
+        intervals [748]:
+            xmin = 245.56000
+            xmax = 245.72000
+            text = ""
+        intervals [749]:
+            xmin = 245.72000
+            xmax = 245.88000
+            text = "I'm"
+        intervals [750]:
+            xmin = 245.88000
+            xmax = 246.14000
+            text = "so"
+        intervals [751]:
+            xmin = 246.14000
+            xmax = 246.42000
+            text = "excited"
+        intervals [752]:
+            xmin = 246.42000
+            xmax = 246.66000
+            text = "for"
+        intervals [753]:
+            xmin = 246.66000
+            xmax = 246.78000
+            text = "the"
+        intervals [754]:
+            xmin = 246.78000
+            xmax = 247.14000
+            text = "Chainsaw"
+        intervals [755]:
+            xmin = 247.14000
+            xmax = 247.28000
+            text = "Man"
+        intervals [756]:
+            xmin = 247.28000
+            xmax = 247.54000
+            text = "anime"
+        intervals [757]:
+            xmin = 247.54000
+            xmax = 247.76000
+            text = "to"
+        intervals [758]:
+            xmin = 247.76000
+            xmax = 247.92000
+            text = "come"
+        intervals [759]:
+            xmin = 247.92000
+            xmax = 248.10000
+            text = "out."
+        intervals [760]:
+            xmin = 248.10000
+            xmax = 248.20000
+            text = ""
+        intervals [761]:
+            xmin = 248.20000
+            xmax = 248.30000
+            text = "It"
+        intervals [762]:
+            xmin = 248.30000
+            xmax = 248.48000
+            text = "is"
+        intervals [763]:
+            xmin = 248.48000
+            xmax = 248.88000
+            text = "literally"
+        intervals [764]:
+            xmin = 248.88000
+            xmax = 249.12000
+            text = "my"
+        intervals [765]:
+            xmin = 249.12000
+            xmax = 249.34000
+            text = "favorite"
+        intervals [766]:
+            xmin = 249.34000
+            xmax = 249.68000
+            text = "manga."
+        intervals [767]:
+            xmin = 249.68000
+            xmax = 249.86000
+            text = ""
+        intervals [768]:
+            xmin = 249.86000
+            xmax = 249.94000
+            text = "If"
+        intervals [769]:
+            xmin = 249.94000
+            xmax = 250.10000
+            text = "this"
+        intervals [770]:
+            xmin = 250.10000
+            xmax = 250.30000
+            text = "video"
+        intervals [771]:
+            xmin = 250.30000
+            xmax = 250.50000
+            text = "does"
+        intervals [772]:
+            xmin = 250.50000
+            xmax = 250.78000
+            text = "well"
+        intervals [773]:
+            xmin = 250.78000
+            xmax = 251.20000
+            text = "and"
+        intervals [774]:
+            xmin = 251.20000
+            xmax = 251.54000
+            text = "or"
+        intervals [775]:
+            xmin = 251.54000
+            xmax = 251.82000
+            text = "you"
+        intervals [776]:
+            xmin = 251.82000
+            xmax = 251.98000
+            text = "give"
+        intervals [777]:
+            xmin = 251.98000
+            xmax = 252.18000
+            text = "me"
+        intervals [778]:
+            xmin = 252.18000
+            xmax = 252.46000
+            text = "money,"
+        intervals [779]:
+            xmin = 252.46000
+            xmax = 252.72000
+            text = ""
+        intervals [780]:
+            xmin = 252.72000
+            xmax = 252.96000
+            text = "I'll"
+        intervals [781]:
+            xmin = 252.96000
+            xmax = 253.44000
+            text = "cosplay"
+        intervals [782]:
+            xmin = 253.44000
+            xmax = 253.94000
+            text = "another"
+        intervals [783]:
+            xmin = 253.94000
+            xmax = 254.36000
+            text = "Chainsaw"
+        intervals [784]:
+            xmin = 254.36000
+            xmax = 254.50000
+            text = "Man"
+        intervals [785]:
+            xmin = 254.50000
+            xmax = 254.90000
+            text = "character"
+        intervals [786]:
+            xmin = 254.90000
+            xmax = 255.42000
+            text = "or"
+        intervals [787]:
+            xmin = 255.42000
+            xmax = 255.90000
+            text = "nurse"
+        intervals [788]:
+            xmin = 255.90000
+            xmax = 256.30000
+            text = "power"
+        intervals [789]:
+            xmin = 256.30000
+            xmax = 256.58000
+            text = "or"
+        intervals [790]:
+            xmin = 256.58000
+            xmax = 256.86000
+            text = "something"
+        intervals [791]:
+            xmin = 256.86000
+            xmax = 257.08000
+            text = "like"
+        intervals [792]:
+            xmin = 257.08000
+            xmax = 257.28000
+            text = "that."
+        intervals [793]:
+            xmin = 257.28000
+            xmax = 257.40000
+            text = ""
+        intervals [794]:
+            xmin = 257.40000
+            xmax = 257.60000
+            text = "So"
+        intervals [795]:
+            xmin = 257.60000
+            xmax = 258.08000
+            text = "comment"
+        intervals [796]:
+            xmin = 258.08000
+            xmax = 258.30000
+            text = "below"
+        intervals [797]:
+            xmin = 258.30000
+            xmax = 258.48000
+            text = "if"
+        intervals [798]:
+            xmin = 258.48000
+            xmax = 258.54000
+            text = "you"
+        intervals [799]:
+            xmin = 258.54000
+            xmax = 258.66000
+            text = "want"
+        intervals [800]:
+            xmin = 258.66000
+            xmax = 258.82000
+            text = "that."
+        intervals [801]:
+            xmin = 258.82000
+            xmax = 258.86000
+            text = ""
+        intervals [802]:
+            xmin = 258.86000
+            xmax = 259.16000
+            text = "Amazing"
+        intervals [803]:
+            xmin = 259.16000
+            xmax = 259.58000
+            text = "adventure."
+        intervals [804]:
+            xmin = 259.58000
+            xmax = 259.80000
+            text = ""
+        intervals [805]:
+            xmin = 259.80000
+            xmax = 260.06000
+            text = "Honestly,"
+        intervals [806]:
+            xmin = 260.06000
+            xmax = 260.14000
+            text = ""
+        intervals [807]:
+            xmin = 260.14000
+            xmax = 260.24000
+            text = "I"
+        intervals [808]:
+            xmin = 260.24000
+            xmax = 260.36000
+            text = "was"
+        intervals [809]:
+            xmin = 260.36000
+            xmax = 260.56000
+            text = "thinking"
+        intervals [810]:
+            xmin = 260.56000
+            xmax = 260.86000
+            text = "about"
+        intervals [811]:
+            xmin = 260.86000
+            xmax = 261.14000
+            text = "this."
+        intervals [812]:
+            xmin = 261.14000
+            xmax = 261.46000
+            text = ""
+        intervals [813]:
+            xmin = 261.46000
+            xmax = 261.62000
+            text = "It's"
+        intervals [814]:
+            xmin = 261.62000
+            xmax = 261.78000
+            text = "kind"
+        intervals [815]:
+            xmin = 261.78000
+            xmax = 261.90000
+            text = "of"
+        intervals [816]:
+            xmin = 261.90000
+            xmax = 262.18000
+            text = "canon"
+        intervals [817]:
+            xmin = 262.18000
+            xmax = 262.44000
+            text = "for"
+        intervals [818]:
+            xmin = 262.44000
+            xmax = 262.68000
+            text = "power"
+        intervals [819]:
+            xmin = 262.68000
+            xmax = 262.84000
+            text = "to"
+        intervals [820]:
+            xmin = 262.84000
+            xmax = 263.06000
+            text = "have"
+        intervals [821]:
+            xmin = 263.06000
+            xmax = 263.24000
+            text = "like,"
+        intervals [822]:
+            xmin = 263.24000
+            xmax = 263.72000
+            text = ""
+        intervals [823]:
+            xmin = 263.72000
+            xmax = 264.10000
+            text = "you"
+        intervals [824]:
+            xmin = 264.10000
+            xmax = 264.28000
+            text = "know,"
+        intervals [825]:
+            xmin = 264.28000
+            xmax = 264.34000
+            text = ""
+        intervals [826]:
+            xmin = 264.34000
+            xmax = 265.52000
+            text = "silicone"
+        intervals [827]:
+            xmin = 265.52000
+            xmax = 266.66000
+            text = "chest."
+        intervals [828]:
+            xmin = 266.66000
+            xmax = 268.16000
+            text = ""
+        intervals [829]:
+            xmin = 268.16000
+            xmax = 268.60000
+            text = "It's"
+        intervals [830]:
+            xmin = 268.60000
+            xmax = 268.92000
+            text = "canon."
+        intervals [831]:
+            xmin = 268.92000
+            xmax = 269.44000
+            text = ""
+        intervals [832]:
+            xmin = 269.44000
+            xmax = 269.54000
+            text = "It's"
+        intervals [833]:
+            xmin = 269.54000
+            xmax = 269.84000
+            text = "canon."
+        intervals [834]:
+            xmin = 269.84000
+            xmax = 271.10000
+            text = ""
+        intervals [835]:
+            xmin = 271.10000
+            xmax = 271.86000
+            text = "Chainsaw"
+        intervals [836]:
+            xmin = 271.86000
+            xmax = 272.10000
+            text = "Man"
+        intervals [837]:
+            xmin = 272.10000
+            xmax = 272.46000
+            text = "is"
+        intervals [838]:
+            xmin = 272.46000
+            xmax = 273.00000
+            text = "actually"
+        intervals [839]:
+            xmin = 273.00000
+            xmax = 273.44000
+            text = "the"
+        intervals [840]:
+            xmin = 273.44000
+            xmax = 273.82000
+            text = "best."
+        intervals [841]:
+            xmin = 273.82000
+            xmax = 274.10000
+            text = ""
+        intervals [842]:
+            xmin = 274.10000
+            xmax = 274.26000
+            text = "Bye."
+        intervals [843]:
+            xmin = 274.26000
+            xmax = 286.14531
+            text = ""

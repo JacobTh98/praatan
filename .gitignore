@@ -1,2 +1,6 @@
 audios/
 __pycache__
+.ipynb_checkpoints/
+*.ipynb
+.virtual_documents/
+*.zip
