@@ -1,4 +1,11 @@
+# Lokale Aufnahmen und daraus erzeugte Transkripte und Wortkontexte
 audios/
+/audios_done/
+/textgrids/
+/textgrids_filtered/
+/exports/
+*_formanten.csv
+
 __pycache__
 .ipynb_checkpoints/
 *.ipynb

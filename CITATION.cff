@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Bitte zitiere diese Software mit den folgenden Angaben."
+type: software
+title: "praatan – Audio → TextGrid → IPA und Formanten"
+authors:
+  - family-names: "Thönes"
+    given-names: "Jacob P."
+repository-code: "https://github.com/JacobTh98/praatan"
